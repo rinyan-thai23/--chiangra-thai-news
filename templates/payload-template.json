@@ -1,0 +1,15 @@
+{
+  "date": "YYYY-MM-DD",
+  "title": "YYYY年M月D日 タイのニュースまとめ",
+  "status": "draft",
+  "article_path": "latest/article.md",
+  "message_path": "latest/message.txt",
+  "image_path": "latest/thumbnail.png",
+  "archive_path": "archive/YYYY/MM/YYYY-MM-DD",
+  "line": {
+    "enabled": false,
+    "sent": false,
+    "sent_at": null
+  }
+}
+

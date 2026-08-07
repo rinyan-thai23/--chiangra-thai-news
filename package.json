@@ -1,0 +1,15 @@
+{
+  "name": "chiangra-thai-news",
+  "version": "1.0.0",
+  "private": true,
+  "description": "北タイ優先のタイニュースと日本ニュースを保管・検証するリポジトリ",
+  "scripts": {
+    "validate": "node scripts/validate-news.js",
+    "prepare": "node scripts/prepare-line-message.js",
+    "check": "npm run validate && npm run prepare"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+

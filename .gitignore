@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+secrets/
+*.secret
+*.log
+node_modules/
+
